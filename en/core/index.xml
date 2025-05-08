@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1. Core :: Practiqual®</title>
+    <link>https://practical-co.github.io/practiqual.github.io/en/core/index.html</link>
+    <description>This is a new chapter.</description>
+    <generator>Hugo</generator>
+    <language>en-au</language>
+    <atom:link href="https://practical-co.github.io/practiqual.github.io/en/core/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beeee</title>
+      <link>https://practical-co.github.io/practiqual.github.io/en/core/beeee/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://practical-co.github.io/practiqual.github.io/en/core/beeee/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Complexity</title>
+      <link>https://practical-co.github.io/practiqual.github.io/en/core/complexity/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://practical-co.github.io/practiqual.github.io/en/core/complexity/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Leadership</title>
+      <link>https://practical-co.github.io/practiqual.github.io/en/core/leadership/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://practical-co.github.io/practiqual.github.io/en/core/leadership/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Principles</title>
+      <link>https://practical-co.github.io/practiqual.github.io/en/core/principles/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://practical-co.github.io/practiqual.github.io/en/core/principles/index.html</guid>
+      <description>Principles Principles play a crucial role in guiding the actions and decisions of business managers and leaders, acting as a compass that directs their behaviors and strategies in a consistent and ethical manner. There are several reasons why having strong principles is important for those in leadership and management positions:&#xA;Ethical FOundation Decisions Making Guidance Culture Building Reputation Sustainability Responsibility In essence, principles are not just moral imperatives; they are practical necessities for business managers and leaders. They foster a culture of ethical behavior, guide decision-making, enhance the organization’s reputation, and contribute to sustainable business practices. By prioritizing principles, leaders can navigate the challenges of the business world with integrity and vision, ensuring long-term success and positive impact on society.</description>
+    </item>
+  </channel>
+</rss>

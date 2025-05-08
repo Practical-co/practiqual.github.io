@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Practiqual Approach :: Practiqual®</title>
+    <link>https://practical-co.github.io/practiqual.github.io/en/index.html</link>
+    <description>Welcome to the Practiqual (pronounced prak.tih.kl) approach to leading teams that build and deliver complex products or services.&#xA;What practiqual is not Practiqual is not a agile approach, primarily because we do not subscribe to their principles and values. They are outdated, software focused and not what is needed in business today.</description>
+    <generator>Hugo</generator>
+    <language>en-au</language>
+    <atom:link href="https://practical-co.github.io/practiqual.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. Core</title>
+      <link>https://practical-co.github.io/practiqual.github.io/en/core/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://practical-co.github.io/practiqual.github.io/en/core/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>2. Framework</title>
+      <link>https://practical-co.github.io/practiqual.github.io/en/framework/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://practical-co.github.io/practiqual.github.io/en/framework/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>3. Pattern Library</title>
+      <link>https://practical-co.github.io/practiqual.github.io/en/patterns/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://practical-co.github.io/practiqual.github.io/en/patterns/index.html</guid>
+      <description>Pattern Library</description>
+    </item>
+    <item>
+      <title>4. Customisation</title>
+      <link>https://practical-co.github.io/practiqual.github.io/en/customisation/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://practical-co.github.io/practiqual.github.io/en/customisation/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+  </channel>
+</rss>

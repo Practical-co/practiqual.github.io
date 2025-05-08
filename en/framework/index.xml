@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2. Framework :: Practiqual®</title>
+    <link>https://practical-co.github.io/practiqual.github.io/en/framework/index.html</link>
+    <description>This is a new chapter.</description>
+    <generator>Hugo</generator>
+    <language>en-au</language>
+    <atom:link href="https://practical-co.github.io/practiqual.github.io/en/framework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cooperative Boost</title>
+      <link>https://practical-co.github.io/practiqual.github.io/en/framework/cooperative_boost/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://practical-co.github.io/practiqual.github.io/en/framework/cooperative_boost/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Cooperative Planning</title>
+      <link>https://practical-co.github.io/practiqual.github.io/en/framework/cooperative_planning/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://practical-co.github.io/practiqual.github.io/en/framework/cooperative_planning/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Daily Game Plan</title>
+      <link>https://practical-co.github.io/practiqual.github.io/en/framework/daily_game_plan/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://practical-co.github.io/practiqual.github.io/en/framework/daily_game_plan/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Product Boost</title>
+      <link>https://practical-co.github.io/practiqual.github.io/en/framework/product_boost/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://practical-co.github.io/practiqual.github.io/en/framework/product_boost/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Project Kick-Off</title>
+      <link>https://practical-co.github.io/practiqual.github.io/en/framework/kickoff/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://practical-co.github.io/practiqual.github.io/en/framework/kickoff/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Team_boost</title>
+      <link>https://practical-co.github.io/practiqual.github.io/en/framework/team_boost/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://practical-co.github.io/practiqual.github.io/en/framework/team_boost/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Weekly Planning</title>
+      <link>https://practical-co.github.io/practiqual.github.io/en/framework/weekly_planning/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://practical-co.github.io/practiqual.github.io/en/framework/weekly_planning/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Weekly Wrap-Up</title>
+      <link>https://practical-co.github.io/practiqual.github.io/en/framework/weekly_wrapup/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://practical-co.github.io/practiqual.github.io/en/framework/weekly_wrapup/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+  </channel>
+</rss>
