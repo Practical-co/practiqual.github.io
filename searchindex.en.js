@@ -5,7 +5,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Categories",
-    "uri": "/categories/index.html"
+    "uri": "/practiqual.github.io/categories/index.html"
   },
   {
     "breadcrumb": "",
@@ -13,7 +13,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Practiqual®",
-    "uri": "/index.html"
+    "uri": "/practiqual.github.io/index.html"
   },
   {
     "breadcrumb": "Practiqual®",
@@ -21,6 +21,6 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tags",
-    "uri": "/tags/index.html"
+    "uri": "/practiqual.github.io/tags/index.html"
   }
 ]
